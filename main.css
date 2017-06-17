@@ -1,0 +1,21 @@
+body{
+    font-family: Georgia, serif;
+}
+
+h1{
+    font-family: Palatino, 'Palatino Linotype', serif;
+    color: purple;
+}
+
+p{
+    color: blueviolet;
+}
+
+h2{
+    color: palevioletred;
+}
+
+ul{
+    color: green;
+}
+
