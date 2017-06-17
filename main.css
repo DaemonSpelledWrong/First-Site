@@ -1,21 +1,22 @@
 body{
     font-family: Georgia, serif;
+    text-align: center;
 }
 
 h1{
     font-family: Palatino, 'Palatino Linotype', serif;
     color: purple;
+    background-color: yellowgreen;
 }
 
-p{
-    color: blueviolet;
-}
-
-h2{
-    color: palevioletred;
+h3{
+    color:#2e69a3;
 }
 
 ul{
     color: green;
 }
 
+.pinkish{
+    color: palevioletred;
+}
