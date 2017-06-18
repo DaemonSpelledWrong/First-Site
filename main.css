@@ -20,3 +20,9 @@ ul{
 .pinkish{
     color: palevioletred;
 }
+
+nav li{
+    display: inline;
+    margin: 0;
+    padding: 0 10px;
+}
